@@ -3,3 +3,4 @@
 - C언어로 주사위를 만들어 게임을 진행
 - 맵 중간중간에는 지름길과 함정이 있다
 
+https://t1.daumcdn.net/cfile/tistory/15256D0F4AA65C7060
